@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@react-monorepo/care-ui": ["libs/care-ui/src/index.ts"],
       "@react-monorepo/products": ["libs/products/src/index.ts"]
     }
   },

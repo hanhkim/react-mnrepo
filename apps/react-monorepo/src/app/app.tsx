@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import { Products } from '@react-monorepo/products';
 
 function Home() {
-  return <h1>Home</h1>;
+  return <div className="p-2 font-mono bg-primary-10">Hello!</div>;
 }
 
 function ProductList() {

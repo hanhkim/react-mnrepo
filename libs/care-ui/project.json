@@ -1,0 +1,8 @@
+{
+  "name": "care-ui",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/care-ui/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
